@@ -1,4 +1,9 @@
-cython==0.29.21
+#by Tom
+# pkgconfig==1.5.5
+cython==0.29.14
+pycapnp==1.0.0
+
+#cython==0.29.21
 scons==4.0.1
 six==1.15.0
 jinja2==2.11.3
@@ -7,8 +12,8 @@ scikit-learn==0.24.0
 cffi==1.14.4
 matplotlib==3.3.3
 pkgconfig==1.5.1
-pycapnp==1.0.0
-jupyter==1.0.0
+#pycapnp==1.0.0
+#jupyter==1.0.0
 pycurl==7.43.0.6
 tenacity==6.3.1
 atomicwrites==1.4.0
